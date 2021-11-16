@@ -2,8 +2,6 @@ array=[15, 38, 7, 23, 14]
 spr=int(input('Input number that you want to check for: '))
 a=3
 
-#sketchy solution
-
 for i in array:
     if spr==i:
         a=1
