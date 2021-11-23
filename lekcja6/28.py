@@ -6,4 +6,4 @@ sum=0
 for dig in a:
     dig=float(dig)
     sum+=dig
-print(sum/len(a))
+print(round(sum/len(a),2))
