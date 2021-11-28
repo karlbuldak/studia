@@ -1,0 +1,14 @@
+{
+    "name": "Karol",
+    "surname": "Bu\u0142dak",
+    "major": "CS",
+    "uni": "UEK",
+    "age": 18,
+    "passed": true,
+    "average": 4.3,
+    "hobbies": [
+        "basketball",
+        "art",
+        "sports"
+    ]
+}
