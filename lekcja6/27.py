@@ -1,5 +1,7 @@
 import re
-for line in open('30linijek.txt'):
-    for match in re.finditer('\b\w{6,}\b', line):
-        print(line)
+plik=open('30linijek.txt')
+for line in plik:
+    a=re.findall(r'\b[a-zA-Z]{6,}\b', line)
+    for i in a:
+        print(i)
         

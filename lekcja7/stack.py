@@ -23,5 +23,5 @@ def empty():
 # display stack
 def display():
     for i in stack:
-        print(i, end=" ")
+        print(i,end=' ')
     print()
